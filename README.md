@@ -1,6 +1,6 @@
 #  Email Spoofer 📧
 
-Email Spoofer is an ethical hacking tool for security audits, penetration testing and social engineering attacks.
+Email Spoofer is a tool for social engineering attacks.
 
 ![email_img](https://github.com/ForbiddenApps/Email-Spoofer/assets/164560634/34b0c36e-d263-48ca-8e60-bcbce43a4c21)
 
