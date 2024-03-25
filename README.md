@@ -18,15 +18,15 @@ Email Spoofer is an ethical hacking tool for security audits, penetration testin
 
 ## How does it work? ❓
 
-+ [YouTube demo video](https://www.youtube.com/watch?v=pHm84GUV0mg)
++ [Demo video](https://www.youtube.com)
 
 ## Download 📥
 
-+ [Download](https://p0p1t0.com/Email_Spoofer.rar) for Windows (Lastest version 1.0)
++ [Download](https://github.com/ForbiddenApps/Email-Spoofer/releases/download/1.0/Email_Spoofer.rar) for Windows (Lastest version 1.0)
 
- ## Buy a pincode 🔑
+ ## Buy the source code </>
  
-Pincodes are codes that allow you to use the *Email Spoofer* tool. Each email sending costs €1 and **the minimum purchase of a pincode is €40** so you will get 40 email sendings.
+If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python language and includes the pincode verification system in case you want to limit sendings in the application to other users or set up your own sending service. It also includes information about the SMTP provider used by the application and how to send emails from your own domain.
 
 Payment method: **Bitcoin**, **Litecoin** and **Ethereum**.
 
