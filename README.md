@@ -24,7 +24,7 @@ Email Spoofer is a tool for social engineering attacks.
 
 + [Download](https://github.com/ForbiddenApps/Email-Spoofer/releases/download/1.0/Email-Spoofer.rar) for Windows (Lastest version 1.0)
 
-*Note contact here to get 1 pincode with 1 sending to test the application: https://t.me/ForbiddenApps*
+*Get in touch here to get 1 pincode with a use to test the application https://t.me/ForbiddenApps*
 
  ## Buy the source code </>
  
