@@ -20,9 +20,11 @@ Email Spoofer is a tool for social engineering attacks.
 
 + [Demo video](https://www.youtube.com/watch?v=YMtjZg-a2zA)
 
-## Download 📥
+## Download demo application 📥
 
 + [Download](https://github.com/ForbiddenApps/Email-Spoofer/releases/download/1.0/Email_Spoofer.rar) for Windows (Lastest version 1.0)
+
+*Note contact here to get 1 pincode with 1 sending to test the application: https://t.me/ForbiddenApps*
 
  ## Buy the source code </>
  
@@ -30,7 +32,7 @@ If you are interested in purchasing this project you can purchase the source cod
 
 Payment method: **Bitcoin**, **Litecoin** and **Ethereum**.
 
-Telegram: **https://t.me/ForbiddenApps**
+Contact: **https://t.me/ForbiddenApps**
 
 # DISCLAIMER 📜
 
