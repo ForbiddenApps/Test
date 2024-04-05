@@ -22,7 +22,7 @@ Email Spoofer is a tool for social engineering attacks.
 
 ## Download demo application 📥
 
-+ [Download](https://github.com/ForbiddenApps/Email-Spoofer/releases/download/1.0/Email_Spoofer.rar) for Windows (Lastest version 1.0)
++ [Download](https://github.com/ForbiddenApps/Email-Spoofer/releases/download/1.0/Email-Spoofer.rar) for Windows (Lastest version 1.0)
 
 *Note contact here to get 1 pincode with 1 sending to test the application: https://t.me/ForbiddenApps*
 
